@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-- 🔭 &nbsp;I’m currently working on my Master's thesis in the Health Sciences Education Program @ McMaster University
 - 🌱 &nbsp;I’m interested in learning web design and development
 - 😄 &nbsp;Pronouns: she/her
 
